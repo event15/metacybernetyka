@@ -46,7 +46,7 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
           js: [
             {
               // fix copy behaviour: https://github.com/KaTeX/KaTeX/blob/main/contrib/copy-tex/README.md
-              src: "ttps://tikzjax.com/v1/tikzjax.js",
+              src: "https://tikzjax.com/v1/tikzjax.js",
               loadTime: "afterDOMReady",
               contentType: "external",
             },
