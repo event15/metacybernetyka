@@ -1,0 +1,1 @@
+Pojęcia pierwotne są to takie, których nie definiujemy, zaś ich znaczenie przyjmujemy za oczywiste.
