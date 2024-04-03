@@ -4,7 +4,7 @@ import rehypeMathjax from "rehype-mathjax/svg"
 import { QuartzTransformerPlugin } from "../types"
 
 interface Options {
-  renderEngine: "katex" | "mathjax"
+  renderEngine: "katex" | "mathjax" | "tikz"
 }
 
 export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
@@ -32,6 +32,21 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
             {
               // fix copy behaviour: https://github.com/KaTeX/KaTeX/blob/main/contrib/copy-tex/README.md
               src: "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/copy-tex.min.js",
+              loadTime: "afterDOMReady",
+              contentType: "external",
+            },
+          ],
+        }
+      } if (engine === "tikz") {
+        return {
+          css: [
+            // base css
+            "https://tikzjax.com/v1/fonts.css",
+          ],
+          js: [
+            {
+              // fix copy behaviour: https://github.com/KaTeX/KaTeX/blob/main/contrib/copy-tex/README.md
+              src: "ttps://tikzjax.com/v1/tikzjax.js",
               loadTime: "afterDOMReady",
               contentType: "external",
             },
