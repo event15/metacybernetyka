@@ -244,5 +244,24 @@ export function renderPage(
     </html>
   )
 
-  return "<!DOCTYPE html>\n" + render(doc)
+  const originalHtml = "<!DOCTYPE html>\n" + render(doc);
+  const modifiedHtml = replaceEntitiesInTikzScripts(originalHtml);
+  return modifiedHtml;
+}
+
+function replaceEntitiesInTikzScripts(html: string) {
+  // Wyrażenie regularne wyszukujące skrypty TikZ w HTML
+  const tikzScriptRegex = /<script type="text\/tikz"(.|\n)*?<\/script>/g;
+  
+  // Funkcja zamieniająca encje tylko wewnątrz skryptów TikZ
+  const replaceEntities = (script: string) => {
+    return script.replace(/&quot;/g, '"').replace(/&amp;/g, '&');
+  };
+
+  // Przechodzi przez wszystkie dopasowania wyrażenia regularnego i zamienia encje
+  const modifiedHtml = html.replace(tikzScriptRegex, (match: any) => {
+    return replaceEntities(match);
+  });
+
+  return modifiedHtml;
 }

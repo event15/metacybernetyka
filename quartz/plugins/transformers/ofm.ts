@@ -36,16 +36,16 @@ export interface Options {
 const defaultOptions: Options = {
   comments: true,
   highlight: true,
-  wikilinks: false,
+  wikilinks: true,
   callouts: true,
-  mermaid: false,
+  mermaid: true,
   parseTags: true,
   parseArrows: true,
   parseBlockReferences: true,
-  enableInHtmlEmbed: false,
+  enableInHtmlEmbed: true,
   enableYouTubeEmbed: true,
   enableVideoEmbed: true,
-  enableCheckbox: false,
+  enableCheckbox: true,
 }
 
 const calloutMapping = {
@@ -147,8 +147,8 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
   const opts = { ...defaultOptions, ...userOpts }
 
   const mdastToHtml = (ast: PhrasingContent | Paragraph) => {
-    const hast = toHast(ast, { allowDangerousHtml: true })!
-    return toHtml(hast, { allowDangerousHtml: true })
+    const hast = toHast(ast, { allowDangerousHtml: true})!
+    return toHtml(hast, { allowDangerousHtml: true, allowDangerousCharacters: true })
   }
 
   return {

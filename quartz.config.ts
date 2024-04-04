@@ -70,6 +70,7 @@ const config: QuartzConfig = {
         prettyLinks: false
       }),
       Plugin.Description(),
+      Plugin.TikZSupport(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [

@@ -107,6 +107,7 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         }
 
         const content = renderPage(cfg, slug, componentData, opts, externalResources)
+        console.log(content + "\n\n\n---------------------------\n\n\n");
         const fp = await write({
           ctx,
           content,
