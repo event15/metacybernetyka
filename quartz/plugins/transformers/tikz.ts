@@ -42,9 +42,9 @@ export const TikZSupport: QuartzTransformerPlugin = () => {
     externalResources() {
       // Definiuje zewnętrzne zasoby potrzebne dla TikZ
       return {
-        css: ["https://event15.github.io/metacybernetyka/assets/styles.css"],
+        css: ["https://metacybernetyka.online/assets/styles.css"],
         js: [{
-            src: "https://event15.github.io/metacybernetyka/assets/tikzjax.js",
+            src: "https://metacybernetyka.online/assets/tikzjax.js",
             loadTime: "afterDOMReady",
             moduleType: "module",
             contentType: "external",
