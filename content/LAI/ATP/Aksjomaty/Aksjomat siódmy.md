@@ -1,5 +1,5 @@
 ---
-type: "[[Aksjomaty]]"
+type: "[[Aksjomat]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
 $r_{ab} \in R$ - dowolna [[Relacja|relacja]] $r_{ab}$ [[Przynależność|należy]] do [[Zbiór|zbioru]] [[Relacja|relacji]] $R$.

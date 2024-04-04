@@ -18,7 +18,7 @@ Składa się z [[Pojęcie pierwotne|pojęć pierwotnych]]:
 	- [[Brak tożsamości|Brak tożsamości]]
 - [[Zbiór|Zbiór]]
 
-Składa się również z [[Aksjomaty|aksjomatów]]:
+Składa się również z [[Aksjomat|aksjomatów]]:
 - [[Aksjomat pierwszy|Aksjomat pierwszy]]
 - [[Aksjomat drugi|Aksjomat drugi]]
 - [[Aksjomat trzeci]]

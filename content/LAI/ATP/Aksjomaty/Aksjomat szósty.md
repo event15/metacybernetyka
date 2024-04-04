@@ -1,5 +1,5 @@
 ---
-type: "[[Aksjomaty]]"
+type: "[[Aksjomat]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
 $o_a \notin R$ - dowolny [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiekt]] $o_a$ [[Brak przynależności|nie należy]] do [[Zbiór|zbioru]] [[Relacja|relacji]] $R$.

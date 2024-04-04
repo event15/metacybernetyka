@@ -3,7 +3,7 @@ aliases:
   - OJTI
 theory: "[[Ogólna jakościowa teoria informacji|OJTI]]"
 ---
-Jest to [[teoria]] będąca [[subdziedziną]] [[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]. Wprowadza nowe [[Pojęcie pierwotne|pojęcia pierwotne]], w postaci [[Relacja|relacji]] oraz nowe [[Aksjomaty|aksjomaty]].
+Jest to [[teoria]] będąca [[subdziedziną]] [[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]. Wprowadza nowe [[Pojęcie pierwotne|pojęcia pierwotne]], w postaci [[Relacja|relacji]] oraz nowe [[Aksjomat|aksjomaty]].
 
 > [!info] Definicja
 > Jeżeli [[Relacja|relacje]] między [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektami]] [[Przynależność|należącymi]] do [[Zbiór|zbioru]] $X$ są <u>**takie same**</u> jak [[Relacja|relacje]] między [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektami]] [[Przynależność|należącymi]] do [[Zbiór|zbioru]] $Y$, wówczas nazywamy je [[Równość|równymi]].
