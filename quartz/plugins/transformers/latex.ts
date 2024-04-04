@@ -1,10 +1,10 @@
-import remarkMath from "remark-math"
-import rehypeKatex from "rehype-katex"
-import rehypeMathjax from "rehype-mathjax/svg"
-import { QuartzTransformerPlugin } from "../types"
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
+import rehypeMathjax from "rehype-mathjax/svg";
+import { QuartzTransformerPlugin } from "../types";
 
 interface Options {
-  renderEngine: "katex" | "mathjax"
+  renderEngine: "katex" | "mathjax";
 }
 
 export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
@@ -12,22 +12,29 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
   return {
     name: "Latex",
     markdownPlugins() {
-      return [remarkMath]
+      return [remarkMath];
     },
     htmlPlugins() {
       if (engine === "katex") {
-        return [[rehypeKatex, { output: "html" }]]
+        return [[rehypeKatex, { output: "html" }]];
       } else {
-        return [rehypeMathjax]
+        return [rehypeMathjax];
       }
     },
     textTransform: (ctx, src) => {
-      // Tylko dla MathJax, przekształć bloki tikz na bloki matematyczne MathJax
-      if(engine === "mathjax") {
+      if (engine === "mathjax") {
         const transformedContent = src.toString().replace(/```tikz\n([\s\S]*?)```/g, (_, tikzCode) => {
-          // Zamieniamy kod tikz na format rozumiany przez MathJax
-          // Opcjonalnie: Można dodać specjalne oznaczenia, jeśli MathJax wymaga dodatkowej konfiguracji dla TikZ
-          return `<script type="text/tikz">${tikzCode}</script>`;
+          let dataTikzLibraries = '';
+          // Sprawdź, czy kod zawiera \usepackage{tikz-cd}
+          if (tikzCode.includes("\\usepackage{tikz-cd}")) {
+            dataTikzLibraries = ' data-tikz-libraries="cd"';
+            // Usuń \usepackage{tikz-cd} z kodu
+            tikzCode = tikzCode.replace("\\usepackage{tikz-cd}\n", "");
+          }
+          // Usuń \begin{document} i \end{document}, jeśli są obecne
+          tikzCode = tikzCode.replace("\\begin{document}\n", "").replace("\n\\end{document}", "");
+
+          return `<script type="text/tikz"${dataTikzLibraries} data-show-console="true">${tikzCode}</script>`;
         });
         return transformedContent;
       }
@@ -36,36 +43,23 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
     externalResources() {
       if (engine === "katex") {
         return {
-          css: [
-            "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css",
-          ],
-          js: [
-            {
-              src: "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/copy-tex.min.js",
-              loadTime: "afterDOMReady",
-              contentType: "external",
-            },
-          ],
-        }
+          css: ["https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/katex.min.css"],
+          js: [{
+            src: "https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.9/contrib/copy-tex.min.js",
+            loadTime: "afterDOMReady",
+            contentType: "external",
+          }],
+        };
       } else {
         return {
-          css: [
-            "https://event15.github.io/metacybernetyka/assets/styles.css",
-          ],
-          js: [
-            {
-              src: "https://event15.github.io/metacybernetyka/assets/tikzjax.js",
-              loadTime: "afterDOMReady",
-              contentType: "external",
-            },
-            {
-              src: "https://event15.github.io/metacybernetyka/assets/test.js",
-              loadTime: "afterDOMReady",
-              contentType: "external",
-            },
-          ],
-        }
+          css: ["https://event15.github.io/metacybernetyka/assets/styles.css"],
+          js: [{
+            src: "https://event15.github.io/metacybernetyka/assets/tikzjax.js",
+            loadTime: "afterDOMReady",
+            contentType: "external",
+          }],
+        };
       }
     },
-  }
-}
+  };
+};
