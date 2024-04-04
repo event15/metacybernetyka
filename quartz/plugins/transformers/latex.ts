@@ -31,9 +31,6 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
             // Usuń \usepackage{tikz-cd} z kodu
             tikzCode = tikzCode.replace("\\usepackage{tikz-cd}\n", "");
           }
-          // Usuń \begin{document} i \end{document}, jeśli są obecne
-          tikzCode = tikzCode.replace("\\begin{document}\n", "").replace("\n\\end{document}", "");
-
           return `<script type="text/tikz"${dataTikzLibraries} data-show-console="true">${tikzCode}</script>`;
         });
         return transformedContent;
@@ -55,7 +52,7 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
           css: ["https://event15.github.io/metacybernetyka/assets/styles.css"],
           js: [{
             src: "https://event15.github.io/metacybernetyka/assets/tikzjax.js",
-            loadTime: "afterDOMReady",
+            loadTime: "beforeDOMReady",
             contentType: "external",
           }],
         };

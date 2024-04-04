@@ -36,9 +36,9 @@ export interface Options {
 const defaultOptions: Options = {
   comments: true,
   highlight: true,
-  wikilinks: true,
+  wikilinks: false,
   callouts: true,
-  mermaid: true,
+  mermaid: false,
   parseTags: true,
   parseArrows: true,
   parseBlockReferences: true,
