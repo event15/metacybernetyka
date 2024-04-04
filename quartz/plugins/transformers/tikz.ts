@@ -11,13 +11,11 @@ export const TikZSupport: QuartzTransformerPlugin = () => {
           let libraries = '';
           if (tikzCode.includes("\\usepackage{tikz-cd}")) {
             libraries = ' data-tikz-libraries="cd"';
-            // Usuń linijkę z \usepackage{tikz-cd} dla czystości
             tikzCode = tikzCode.replace("\\usepackage{tikz-cd}\n", "");
           }
           return `<script type="text/tikz"${libraries} data-show-console="true">${tikzCode}</script>`;
         });
 
-        console.log(transformedContent);
         return transformedContent;
       },
     markdownPlugins() {
