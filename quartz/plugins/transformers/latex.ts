@@ -54,7 +54,7 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
           ],
           js: [
             {
-              src: "./assets/tikzjax.js",
+              src: "/assets/tikzjax.js",
               loadTime: "afterDOMReady",
               contentType: "external",
             },
