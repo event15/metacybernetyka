@@ -8,7 +8,7 @@ relates:
   - "[[Substancja systemu]]"
 ---
 
-Jeśli mamy różne [systemy](System.md), na przykład $X$ oraz $Y$, w których mamy [relacje](Relacja.md) ([informacje](Informacja.md)) wewnątrz tych [zbiorów](Zbiór.md) pomiędzy [komunikatami](Komunikat.md), to w przypadku aktualnego rozważania do znalezienia poszukiwanych przez nas [informacji](Informacja.md) możemy wykorzystać [zbiór](Zbiór.md) $X$, wówczas te [komunikaty](Komunikat.md) nazywamy **oryginałami**.
+Jeśli mamy różne [[System|systemy]], na przykład $X$ oraz $Y$, w których mamy [[Relacja|relacje]] ([[Informacja|informacje]]) wewnątrz tych [[Zbiór|zbiorów]] pomiędzy [[Komunikat|komunikatami]], to w przypadku aktualnego rozważania do znalezienia poszukiwanych przez nas [[Informacja|informacji]] możemy wykorzystać [[Zbiór|zbiór]] $X$, wówczas te [[Komunikat|komunikaty]] nazywamy **oryginałami**.
 
 ```tikz
 \usepackage{amsmath}

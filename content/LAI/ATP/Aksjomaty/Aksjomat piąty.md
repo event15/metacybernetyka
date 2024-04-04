@@ -2,7 +2,7 @@
 type: "[[Aksjomaty]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-$o_a \in O$ - dowolny [obiekt](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) $o_a$ [należy](Przynależność.md) do [zbioru](Zbiór.md) [obiektów](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) $O$.
+$o_a \in O$ - dowolny [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiekt]] $o_a$ [[Przynależność|należy]] do [[Zbiór|zbioru]] [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektów]] $O$.
 ```tikz
 \usepackage{tikz-cd}
 

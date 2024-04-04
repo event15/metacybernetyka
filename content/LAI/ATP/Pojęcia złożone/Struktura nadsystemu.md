@@ -9,6 +9,6 @@ relates:
   - "[[Struktura systemu|porządek]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-- Jest to [zbiór](Zbiór.md) [relacji](Relacja.md) między [podsystemami](Podsystem.md) wewnątrz [nadsystemu](Nadsystem.md).
+- Jest to [[Zbiór|zbiór]] [[Relacja|relacji]] między [[Podsystem|podsystemami]] wewnątrz [[Nadsystem|nadsystemu]].
 - Można to zapisać: $(\underset{xy}{R}, \dots) \equiv \underset{XY\dots}{R}$
-- Wprowadza [porządek](Struktura%20systemu.md) w [nadsystemie](Nadsystem.md).
+- Wprowadza [[Struktura systemu|porządek]] w [[Nadsystem|nadsystemie]].

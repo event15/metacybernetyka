@@ -4,10 +4,10 @@ type:
   - "[[Definicje]]"
 theory: "[[Ogólna jakościowa teoria informacji|OJTI]]"
 ---
-- Komunikaty są to [elementy](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) [zbioru](Zbiór.md), między którymi występują [informacje](Informacja.md).
+- Komunikaty są to [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|elementy]] [[Zbiór|zbioru]], między którymi występują [[Informacja|informacje]].
 - Przykładowymi komunikatami są: 
-	* [Obrazy](Obrazy.md)
-	* [Oryginały](Oryginał.md)
+	* [[Obrazy|Obrazy]]
+	* [[Oryginał|Oryginały]]
 - Przykłady komunikatów na poniższym rysunku to obiekty $(x_1, x_2, x_n)$ zbioru oryginałów oraz obiekty $(y_1, y_2, y_n)$ należące do zbioru obrazów:
 ```tikz
 \usepackage{amsmath}

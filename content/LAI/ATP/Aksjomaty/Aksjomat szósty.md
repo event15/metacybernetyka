@@ -2,7 +2,7 @@
 type: "[[Aksjomaty]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-$o_a \notin R$ - dowolny [obiekt](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) $o_a$ [nie należy](Brak%20przynależności.md) do [zbioru](Zbiór.md) [relacji](Relacja.md) $R$.
+$o_a \notin R$ - dowolny [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiekt]] $o_a$ [[Brak przynależności|nie należy]] do [[Zbiór|zbioru]] [[Relacja|relacji]] $R$.
 ```tikz
 \usepackage{tikz-cd}
 \usetikzlibrary{shapes.geometric}

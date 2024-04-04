@@ -4,10 +4,10 @@ type:
   - "[[Pojęcie niepierwotne]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-Jest to [pojęcie złożone](Pojęcie%20niepierwotne.md).
-Wynika ona bezpośrednio z definicji [alternatywy](Alternatywa.md).
+Jest to [[Pojęcie niepierwotne|pojęcie złożone]].
+Wynika ona bezpośrednio z definicji [[Alternatywa|alternatywy]].
 
-[Definiujemy](Definicje.md) ją jako [element](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) [zbioru](Zbiór.md) $A$: $K \equiv A_2$. 
+[[Definicje|Definiujemy]] ją jako [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|element]] [[Zbiór|zbioru]] $A$: $K \equiv A_2$. 
 
 Niech $Z_1, Z_2 \in O$
 $$

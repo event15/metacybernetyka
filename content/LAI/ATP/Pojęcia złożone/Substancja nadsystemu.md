@@ -8,4 +8,4 @@ theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 relates:
   - "[[System]]"
 ---
-- [Zbiór](Zbiór.md) składający się ze wszystkich [obiektów](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) $(\underset{x}{O},\underset{y}{O}, \dots) \equiv \underset{XY\dots}{O}$ [należących](Przynależność.md) do [podsystemów](Podsystem.md) nazywamy [substancją nadsystemu](Substancja%20nadsystemu.md) (nadsubstancją).
+- [[Zbiór|Zbiór]] składający się ze wszystkich [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektów]] $(\underset{x}{O},\underset{y}{O}, \dots) \equiv \underset{XY\dots}{O}$ [[Przynależność|należących]] do [[Podsystem|podsystemów]] nazywamy [[Substancja nadsystemu|substancją nadsystemu]] (nadsubstancją).

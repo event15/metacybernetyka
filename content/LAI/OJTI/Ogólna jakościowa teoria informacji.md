@@ -3,10 +3,10 @@ aliases:
   - OJTI
 theory: "[[Ogólna jakościowa teoria informacji|OJTI]]"
 ---
-Jest to [[teoria]] będąca [[subdziedziną]] [ATP](LAI/ATP/Aksjomatyczna%20teoria%20poznania.md). Wprowadza nowe [pojęcia pierwotne](Pojęcie%20pierwotne.md), w postaci [relacji](Relacja.md) oraz nowe [aksjomaty](Aksjomaty.md).
+Jest to [[teoria]] będąca [[subdziedziną]] [[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]. Wprowadza nowe [[Pojęcie pierwotne|pojęcia pierwotne]], w postaci [[Relacja|relacji]] oraz nowe [[Aksjomaty|aksjomaty]].
 
 > [!info] Definicja
-> Jeżeli [relacje](Relacja.md) między [obiektami](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) [należącymi](Przynależność.md) do [zbioru](Zbiór.md) $X$ są <u>**takie same**</u> jak [relacje](Relacja.md) między [obiektami](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) [należącymi](Przynależność.md) do [zbioru](Zbiór.md) $Y$, wówczas nazywamy je [równymi](Równość.md).
+> Jeżeli [[Relacja|relacje]] między [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektami]] [[Przynależność|należącymi]] do [[Zbiór|zbioru]] $X$ są <u>**takie same**</u> jak [[Relacja|relacje]] między [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektami]] [[Przynależność|należącymi]] do [[Zbiór|zbioru]] $Y$, wówczas nazywamy je [[Równość|równymi]].
 
 Możemy wówczas napisać: 
 $$
@@ -19,11 +19,11 @@ _{x}r_{ab} &= r_{ab} \\
 _{y}r_{ab} &= r_{ab}
 \end{align}
 $$
-Jeżeli zaś nie jest ono spełnione, wówczas rozpatrywane [relacje](Relacja.md) [nie są równe](Brak%20równości.md), co zapisujemy:
+Jeżeli zaś nie jest ono spełnione, wówczas rozpatrywane [[Relacja|relacje]] [[Brak równości|nie są równe]], co zapisujemy:
 $$
 _{x}r_{ab} \neq _{y}r_{ab}
 $$
 
-Wprowadza ona [pojęcie](Pojęcie%20niepierwotne.md) [informacji](Informacja.md) oraz [kodu](Kod.md). Najkrócej można to opisać jako:
-* [relacje](Relacja.md) między [obiektami](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) tego samego [zbioru](Zbiór.md) nazywamy [informacjami](Informacja.md),
-* [relacje](Relacja.md) między [obiektami](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) różnych [zbiorów](Zbiór.md) nazywamy [kodami](Kod.md).
+Wprowadza ona [[Pojęcie niepierwotne|pojęcie]] [[Informacja|informacji]] oraz [[Kod|kodu]]. Najkrócej można to opisać jako:
+* [[Relacja|relacje]] między [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektami]] tego samego [[Zbiór|zbioru]] nazywamy [[Informacja|informacjami]],
+* [[Relacja|relacje]] między [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektami]] różnych [[Zbiór|zbiorów]] nazywamy [[Kod|kodami]].

@@ -2,7 +2,7 @@
 type: "[[Aksjomaty]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-$r_{ab} \in R$ - dowolna [relacja](Relacja.md) $r_{ab}$ [należy](Przynależność.md) do [zbioru](Zbiór.md) [relacji](Relacja.md) $R$.
+$r_{ab} \in R$ - dowolna [[Relacja|relacja]] $r_{ab}$ [[Przynależność|należy]] do [[Zbiór|zbioru]] [[Relacja|relacji]] $R$.
 ```tikz
 \usepackage{tikz-cd}
 

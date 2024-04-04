@@ -5,22 +5,22 @@ aliases:
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 type: 
 ---
-Aksjomatyczna teoria poznania - którą w skrócie nazywać można [eksploracjonizmem](LAI/ATP/Aksjomatyczna%20teoria%20poznania.md) - i oparta na niej konstrukcja nowoczesnej nauki, opiera się na [pojęciach pierwotnych](Pojęcie%20pierwotne.md), których nie definiujemy, zaś ich znaczenie przyjmujemy za oczywiste.
+Aksjomatyczna teoria poznania - którą w skrócie nazywać można [[LAI/ATP/Aksjomatyczna teoria poznania|eksploracjonizmem]] - i oparta na niej konstrukcja nowoczesnej nauki, opiera się na [[Pojęcie pierwotne|pojęciach pierwotnych]], których nie definiujemy, zaś ich znaczenie przyjmujemy za oczywiste.
 
-[Pojęcia pierwotne](Pojęcie%20pierwotne.md) oznaczać będziemy symbolami słownymi lub grafo-analitycznymi. Ponieważ znaczenie pojęć pierwotnych może być różnie przez różnych ludzi rozumiane, zatem mając na uwadze dążenie do jednoznaczności naukowego przekazu informacji postuluje się aby tych pojęć pierwotnych było jak najmniej.
+[[Pojęcie pierwotne|Pojęcia pierwotne]] oznaczać będziemy symbolami słownymi lub grafo-analitycznymi. Ponieważ znaczenie pojęć pierwotnych może być różnie przez różnych ludzi rozumiane, zatem mając na uwadze dążenie do jednoznaczności naukowego przekazu informacji postuluje się aby tych pojęć pierwotnych było jak najmniej.
 
-Składa się z [pojęć pierwotnych](Pojęcie%20pierwotne.md):
-- [Obiekt elementarny](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md)
-- [Relacja](Relacja.md)
-	- [Przynależność](Przynależność.md)
-	- [Brak przynależności](Brak%20przynależności.md)
-	- [Tożsamość](Tożsamość.md)
-	- [Brak tożsamości](Brak%20tożsamości.md)
-- [Zbiór](Zbiór.md)
+Składa się z [[Pojęcie pierwotne|pojęć pierwotnych]]:
+- [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|Obiekt elementarny]]
+- [[Relacja|Relacja]]
+	- [[Przynależność|Przynależność]]
+	- [[Brak przynależności|Brak przynależności]]
+	- [[Tożsamość|Tożsamość]]
+	- [[Brak tożsamości|Brak tożsamości]]
+- [[Zbiór|Zbiór]]
 
-Składa się również z [aksjomatów](Aksjomaty.md):
-- [Aksjomat pierwszy](Aksjomat%20pierwszy.md)
-- [Aksjomat drugi](Aksjomat%20drugi.md)
+Składa się również z [[Aksjomaty|aksjomatów]]:
+- [[Aksjomat pierwszy|Aksjomat pierwszy]]
+- [[Aksjomat drugi|Aksjomat drugi]]
 - [[Aksjomat trzeci]]
 - [[Aksjomat czwarty]]
 - [[Aksjomat piąty]]
@@ -28,18 +28,18 @@ Składa się również z [aksjomatów](Aksjomaty.md):
 - [[Aksjomat siódmy]]
 - [[Aksjomat ósmy]]
 
-W ramach tej teorii powstały również [pojęcia złożone](Pojęcie%20niepierwotne.md):
-- [Definicje](Definicje.md)
-- [Bezład](Bezład.md)
-- [Uporządkowanie](Uporządkowanie.md) - Dzięki uporządkowaniu w [systemie](System.md) pojęć [ATP](LAI/ATP/Aksjomatyczna%20teoria%20poznania.md) wprowadza [porządek](Struktura%20systemu.md) semantyczny, który prowadzi do [porządku](Struktura%20systemu.md) poznawczego
-- [Tożsamość zbiorów](Tożsamość%20zbiorów.md)
-- [System](System.md)
-- [Struktura systemu](Struktura%20systemu.md)
-- [Substancja systemu](Substancja%20systemu.md)
-- [Nadsystem](Nadsystem.md)
-	- [Nadstruktura](Struktura%20nadsystemu.md)
-	- [Nadsubstancja](Substancja%20nadsystemu.md)
-- [Podsystem](Podsystem.md)
-	- [Podstruktura](Podstruktura.md)
-	- [Podsubstancja](Podsubstancja.md)
-- [Otoczenie](Otoczenie.md)
+W ramach tej teorii powstały również [[Pojęcie niepierwotne|pojęcia złożone]]:
+- [[Definicje|Definicje]]
+- [[Bezład|Bezład]]
+- [[Uporządkowanie|Uporządkowanie]] - Dzięki uporządkowaniu w [[System|systemie]] pojęć [[LAI/ATP/Aksjomatyczna teoria poznania|ATP]] wprowadza [[Struktura systemu|porządek]] semantyczny, który prowadzi do [[Struktura systemu|porządku]] poznawczego
+- [[Tożsamość zbiorów|Tożsamość zbiorów]]
+- [[System|System]]
+- [[Struktura systemu|Struktura systemu]]
+- [[Substancja systemu|Substancja systemu]]
+- [[Nadsystem|Nadsystem]]
+	- [[Struktura nadsystemu|Nadstruktura]]
+	- [[Substancja nadsystemu|Nadsubstancja]]
+- [[Podsystem|Podsystem]]
+	- [[Podstruktura|Podstruktura]]
+	- [[Podsubstancja|Podsubstancja]]
+- [[Otoczenie|Otoczenie]]

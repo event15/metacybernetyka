@@ -17,7 +17,7 @@ A_{3} \notin Z_{1} \\ \in Z_{2}
 \end{align}
 $$
 
-Alternatywa jest to [pojęcie złożone](Pojęcie%20niepierwotne.md). [Definiujemy](Definicje.md) ją jako [zbiór](Zbiór.md): $(A_1, A_2, A_3)$.
+Alternatywa jest to [[Pojęcie niepierwotne|pojęcie złożone]]. [[Definicje|Definiujemy]] ją jako [[Zbiór|zbiór]]: $(A_1, A_2, A_3)$.
 
 Alternatywa zbiorów (jest bardziej ogólna niż alternatywa zdań).
 Rozpatrujemy tu zbiory zdań dlatego korzystamy z teorii zbiorów. 

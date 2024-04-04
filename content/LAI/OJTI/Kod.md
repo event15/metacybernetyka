@@ -1,7 +1,7 @@
 > [!info] Definicja
-> Jeżeli mamy następujące [zbiory](Zbiór.md) oznaczone odpowiednio literami $X, Y$ wówczas [relacje](Relacja.md) między [obiektami](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) [należącymi](Przynależność.md) do **różnych** [zbiorów](Zbiór.md) (oznaczone symbolem $_{xy}r_{uw}$), nazywamy **kodami** i oznaczamy $_{xy}K_{uw}$.
+> Jeżeli mamy następujące [[Zbiór|zbiory]] oznaczone odpowiednio literami $X, Y$ wówczas [[Relacja|relacje]] między [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektami]] [[Przynależność|należącymi]] do **różnych** [[Zbiór|zbiorów]] (oznaczone symbolem $_{xy}r_{uw}$), nazywamy **kodami** i oznaczamy $_{xy}K_{uw}$.
 
-- Gdy mamy wprowadzone [definicje](Definicje.md) [obrazów](Obrazy.md) i [oryginałów](Oryginał.md), wówczas kodami nazywamy [relacje](Relacja.md) między [oryginałami](Oryginał.md) a [obrazami](Obrazy.md).
+- Gdy mamy wprowadzone [[Definicje|definicje]] [[Obrazy|obrazów]] i [[Oryginał|oryginałów]], wówczas kodami nazywamy [[Relacja|relacje]] między [[Oryginał|oryginałami]] a [[Obrazy|obrazami]].
 
 ```tikz
 

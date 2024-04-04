@@ -1,2 +1,2 @@
-Jest to jedna z [relacji pierwotnych](Relacje%20pierwotne.md).
-Jest to nazwa używana do określania jednej z [relacji](Relacja.md), którą chcemy użyć lub opisać.
+Jest to jedna z [[Relacje pierwotne|relacji pierwotnych]].
+Jest to nazwa używana do określania jednej z [[Relacja|relacji]], którą chcemy użyć lub opisać.

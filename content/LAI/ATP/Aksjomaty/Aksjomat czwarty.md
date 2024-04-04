@@ -2,7 +2,7 @@
 type: "[[Aksjomaty]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-$r_{ab} \not\equiv o_a$ - dowolna [relacja](Relacja.md) $r_{ab}$ [nie jest tożsama](Brak%20tożsamości.md) z żadnym dowolnym [obiektem](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) $o_a$.
+$r_{ab} \not\equiv o_a$ - dowolna [[Relacja|relacja]] $r_{ab}$ [[Brak tożsamości|nie jest tożsama]] z żadnym dowolnym [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektem]] $o_a$.
 
 ```tikz
 \usepackage{tikz-cd}

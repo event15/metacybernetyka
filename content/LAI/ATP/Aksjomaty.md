@@ -2,4 +2,4 @@
 aliases:
   - pewniki
 ---
-Są to [relacje ogólne](Relacje%20ogólne.md), które przyjmujemy za oczywiste. 
+Są to [[Relacje ogólne|relacje ogólne]], które przyjmujemy za oczywiste. 

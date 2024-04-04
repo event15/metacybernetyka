@@ -4,12 +4,12 @@ type:
   - "[[Pojęcie niepierwotne]]"
 theory: "[[Ogólna jakościowa teoria informacji|OJTI]]"
 ---
-[Relacje ogólne](Relacje%20ogólne.md) między [relacjami](Relacja.md) nazywać będziemy stosunkami. 
+[[Relacje ogólne|Relacje ogólne]] między [[Relacja|relacjami]] nazywać będziemy stosunkami. 
 
 > [!info] Stosunki
 > Zachodzą między:
-> * [relacjami](Relacja.md) tego samego [systemu](System.md)
-> * [relacjami](Relacja.md) różnych [systemu](System.md)
+> * [[Relacja|relacjami]] tego samego [[System|systemu]]
+> * [[Relacja|relacjami]] różnych [[System|systemu]]
 
 ![](https://youtu.be/64Nv5IzNDTc?list=PL5LSM13zdJ8j7_JG6j8X2nDJunclrpbHh&t=3500)
 

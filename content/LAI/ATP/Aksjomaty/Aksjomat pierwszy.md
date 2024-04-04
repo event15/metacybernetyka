@@ -2,7 +2,7 @@
 type: "[[Aksjomaty]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-$o_a \equiv o_a$ - dowolny [obiekt](LAI/ATP/Pojęcia%20pierwotne/Obiekt%20elementarny.md) $o_a$ jest [tożsamy](Tożsamość.md) z samym sobą.
+$o_a \equiv o_a$ - dowolny [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiekt]] $o_a$ jest [[Tożsamość|tożsamy]] z samym sobą.
 
 ```tikz
 \usepackage{tikz-cd}

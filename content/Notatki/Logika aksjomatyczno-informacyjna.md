@@ -1,20 +1,20 @@
 Aby móc posługiwać się tą sformalizowaną teorią naukową, musimy wprowadzić pojęcia pierwotne. 
 
-> [!info] ![Pojęcie pierwotne](Pojęcie%20pierwotne.md)
+> [!info] ![[Pojęcie pierwotne|Pojęcie pierwotne]]
 
-System pojęć [aksjomatycznej teorii poznania](Aksjomatyczna%20teoria%20poznania.md) opiera się na jawnie zdefiniowanych pojęciach pierwotnych:
-1. ![obiekt](Obiekt%20elementarny.md)
-2. ![Relacja](Relacja.md)
-3. ![Zbiór](Zbiór.md)
+System pojęć [[Aksjomatyczna teoria poznania|aksjomatycznej teorii poznania]] opiera się na jawnie zdefiniowanych pojęciach pierwotnych:
+1. ![[Obiekt elementarny|obiekt]]
+2. ![[Relacja|Relacja]]
+3. ![[Zbiór|Zbiór]]
 Bez wyjaśnienia mogą powstać już w tym miejscu pewne pytania. Relacje najlepiej można opisać literackimi słowami, mówiącymi, że jest to "coś pomiędzy obiektami". Obiekty stanowią fundament, na którym mogą zostać zbudowane relacje; bez obiektów relacje nie miałyby podstaw do istnienia. Z kolei, relacje między obiektami pozwalają na zrozumienie i opisanie struktury oraz dynamiki systemu, w którym te obiekty funkcjonują.
 
 Relacje w tym systemie pojęć są w pewien sposób uprzywilejowane - to znaczy, że jest ich kilka, a każda z nich jest traktowana jako osobne pojęcie pierwotne. Każda z tych relacji ma przyporządkowaną nazwę oraz symbol:
 
-![Relacje pierwotne](Relacje%20pierwotne.md)
-![Przynależność](Przynależność.md)
-![Brak przynależności](Brak%20przynależności.md)
-![Tożsamość](Tożsamość.md)
-![Brak tożsamości](Brak%20tożsamości.md)
+![[Relacje pierwotne|Relacje pierwotne]]
+![[Przynależność|Przynależność]]
+![[Brak przynależności|Brak przynależności]]
+![[Tożsamość|Tożsamość]]
+![[Brak tożsamości|Brak tożsamości]]
 
 Na tym etapie te pojęcia pierwotne możemy traktować jako puste pudełka z podpisami - w tej chwili możemy powiedzieć tylko tyle - mamy zaproponowane symbole języka proponowanego przez tę teorię. Jest to praktyka często stosowana dla systemów hipotetyczno-dedukcyjnych, czyli takich, które - w ogólnym skrócie - bazują na abstrakcjach. Podobnie tworzone są teorie takie jak teoria kategorii albo na przykład HoTT (Homotopy Type Theory). 
 
