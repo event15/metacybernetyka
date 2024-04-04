@@ -2,7 +2,7 @@
 type: "[[Aksjomaty]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-$r_{ab} \equiv r_{ab}$ - dowolna [[Relacja|relacja]] $r_{ab}$ jest [[Tożsamość|tożsama]] z samą sobą.
+$r_{ab} \equiv r_{ab}$ - dowolna [[Relacja|relacja]] $r_{ab}$ jest [[Tożsamość|tożsama]] z samą sobą. 
 
 ```tikz
 \usepackage{tikz-cd}
