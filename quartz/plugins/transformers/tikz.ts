@@ -12,6 +12,7 @@ export const TikZSupport: QuartzTransformerPlugin = () => {
           if (tikzCode.includes("\\usepackage{tikz-cd}")) {
             libraries = ' data-tikz-libraries="cd"';
             tikzCode = tikzCode.replace("\\usepackage{tikz-cd}\n", "");
+            tikzCode = tikzCode.replace("\\usepackage{tikzpicture}\n", "");
           }
           return `<script type="text/tikz"${libraries} data-show-console="true">${tikzCode}</script>`;
         });

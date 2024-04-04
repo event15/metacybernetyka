@@ -10,11 +10,8 @@ $r_{ab} \equiv r_{ab}$ - dowolna [[Relacja|relacja]] $r_{ab}$ jest [[Tożsamoś�
 \begin{document}
 
 \begin{tikzcd}
-o_{a} 
-	\arrow[r, no head, "r_{ab}"{name=rab}] & 
-o_{b} &
-\arrow[loop, "\equiv" description,from=rab, to=rab]
-
+o_a \arrow[rr, "r_{ab}", no head] & {} \arrow["\equiv"', loop, distance=2em, in=305, out=235] & 
+o_{b}
 \end{tikzcd}
 
 \end{document}
