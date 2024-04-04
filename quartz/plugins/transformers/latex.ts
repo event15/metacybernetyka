@@ -58,6 +58,11 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
               loadTime: "afterDOMReady",
               contentType: "external",
             },
+            {
+              src: "https://event15.github.io/metacybernetyka/assets/test.js",
+              loadTime: "afterDOMReady",
+              contentType: "external",
+            },
           ],
         }
       }
