@@ -50,11 +50,11 @@ export const Latex: QuartzTransformerPlugin<Options> = (opts?: Options) => {
       } else {
         return {
           css: [
-            "http://tikzjax.com/v1/fonts.css",
+            "https://tikzjax.com/v1/fonts.css",
           ],
           js: [
             {
-              src: "http://tikzjax.com/v1/tikzjax.js",
+              src: "https://tikzjax.com/v1/tikzjax.js",
               loadTime: "afterDOMReady",
               contentType: "external",
             },
