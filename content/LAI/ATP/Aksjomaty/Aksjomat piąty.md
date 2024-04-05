@@ -2,7 +2,8 @@
 type: "[[Aksjomat]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-$o_a \in O$ - dowolny [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiekt]] $o_a$ [[Przynależność|należy]] do [[Zbiór|zbioru]] [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektów]] $O$.
+$o_a \in O$ - dowolny [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiekt]] $o_a$ [[Przynależność|należy]] do [[Zbiór|zbioru]] [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektów]] $O$[^1].
+
 
 ```tikz
 \usepackage{tikz-cd}
@@ -21,3 +22,6 @@ o_{a} \arrow[r, "\in", no head] & O
 
 \end{document}
 ```
+
+
+[^1]: J. Kossecki, *Metacybernetyka*, Warszawa 2018, s. 23

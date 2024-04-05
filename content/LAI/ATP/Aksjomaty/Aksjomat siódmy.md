@@ -2,7 +2,7 @@
 type: "[[Aksjomat]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-$r_{ab} \in R$ - dowolna [[Relacja|relacja]] $r_{ab}$ [[Przynależność|należy]] do [[Zbiór|zbioru]] [[Relacja|relacji]] $R$.
+$r_{ab} \in R$ - dowolna [[Relacja|relacja]] $r_{ab}$ [[Przynależność|należy]] do [[Zbiór|zbioru]] [[Relacja|relacji]] $R$[^1].
 ```tikz
 \usepackage{tikz-cd}
 
@@ -20,3 +20,5 @@ r_{ab} \arrow[r, "\in", no head] & R
 
 \end{document}
 ```
+
+[^1]: J. Kossecki, *Metacybernetyka*, Warszawa 2018, s. 23

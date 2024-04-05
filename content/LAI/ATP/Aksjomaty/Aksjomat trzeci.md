@@ -2,7 +2,7 @@
 type: "[[Aksjomat]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-$r_{ab} \equiv r_{ab}$ - dowolna [[Relacja|relacja]] $r_{ab}$ jest [[Tożsamość|tożsama]] z samą sobą. 
+$r_{ab} \equiv r_{ab}$ - dowolna [[Relacja|relacja]] $r_{ab}$ jest [[Tożsamość|tożsama]] z samą sobą[^1].
 
 ```tikz
 \usepackage{tikz-cd}
@@ -16,3 +16,5 @@ o_{b}
 
 \end{document}
 ```
+
+[^1]: J. Kossecki, *Metacybernetyka*, Warszawa 2018, s. 23

@@ -2,7 +2,7 @@
 type: "[[Aksjomat]]"
 theory: "[[LAI/ATP/Aksjomatyczna teoria poznania|ATP]]"
 ---
-$r_{ab} \notin O$ - dowolna [[Relacja|relacja]] $r_{ab}$ [[Brak przynależności|nie należy]] do [[Zbiór|zbioru]] [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektów elementarnych]] $O$.
+$r_{ab} \notin O$ - dowolna [[Relacja|relacja]] $r_{ab}$ [[Brak przynależności|nie należy]] do [[Zbiór|zbioru]] [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|obiektów elementarnych]] $O$[^1].
 ```tikz
 \usepackage{tikz-cd}
 \usetikzlibrary{shapes.geometric}
@@ -33,3 +33,5 @@ r_{ab} \arrow[r, "\notin", no head] & O
 
 \end{document}
 ```
+
+[^1]: J. Kossecki, *Metacybernetyka*, Warszawa 2018, s. 23

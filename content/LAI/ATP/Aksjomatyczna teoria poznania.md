@@ -34,8 +34,8 @@ W ramach tej teorii powstały również [[Pojęcie niepierwotne|pojęcia złożo
 - [[Uporządkowanie|Uporządkowanie]] - Dzięki uporządkowaniu w [[System|systemie]] pojęć [[LAI/ATP/Aksjomatyczna teoria poznania|ATP]] wprowadza [[Struktura systemu|porządek]] semantyczny, który prowadzi do [[Struktura systemu|porządku]] poznawczego
 - [[Tożsamość zbiorów|Tożsamość zbiorów]]
 - [[System|System]]
-- [[Struktura systemu|Struktura systemu]]
-- [[Substancja systemu|Substancja systemu]]
+	- [[Struktura systemu|Struktura systemu]]
+	- [[Substancja systemu|Substancja systemu]]
 - [[Nadsystem|Nadsystem]]
 	- [[Struktura nadsystemu|Nadstruktura]]
 	- [[Substancja nadsystemu|Nadsubstancja]]
