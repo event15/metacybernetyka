@@ -2,10 +2,10 @@ Aby móc posługiwać się tą sformalizowaną teorią naukową, musimy wprowadz
 
 > [!info] ![[Pojęcie pierwotne|Pojęcie pierwotne]]
 
-System pojęć [[Aksjomatyczna teoria poznania|aksjomatycznej teorii poznania]] opiera się na jawnie zdefiniowanych pojęciach pierwotnych:
-1. ![[Obiekt elementarny|obiekt]]
-2. ![[Relacja|Relacja]]
-3. ![[Zbiór|Zbiór]]
+System pojęć [[12. Aksjomatyczna teoria poznania|aksjomatycznej teorii poznania]] opiera się na jawnie zdefiniowanych pojęciach pierwotnych:
+1. ![[1. Obiekt elementarny|obiekt]]
+2. ![[2. Relacja|2. Relacja]]
+3. ![[3. Zbiór|3. Zbiór]]
 
 Bez wyjaśnienia mogą powstać już w tym miejscu pewne pytania. Relacje najlepiej można opisać literackimi słowami, mówiącymi, że jest to "coś pomiędzy obiektami". Obiekty stanowią fundament, na którym mogą zostać zbudowane relacje; bez obiektów relacje nie miałyby podstaw do istnienia. Z kolei, relacje między obiektami pozwalają na zrozumienie i opisanie struktury oraz dynamiki systemu, w którym te obiekty funkcjonują.
 
@@ -18,11 +18,11 @@ Bez wyjaśnienia mogą powstać już w tym miejscu pewne pytania. Relacje najlep
 
 Relacje w tym systemie pojęć są w pewien sposób uprzywilejowane - to znaczy, że jest ich kilka, a każda z nich jest traktowana jako osobne pojęcie pierwotne. Każda z tych relacji ma przyporządkowaną nazwę oraz symbol:
 
-![[Relacje pierwotne|Relacje pierwotne]]
-![[Przynależność|Przynależność]]
-![[Brak przynależności|Brak przynależności]]
-![[Tożsamość|Tożsamość]]
-![[Brak tożsamości|Brak tożsamości]]
+![[5. Relacje pierwotne|5. Relacje pierwotne]]
+![[6. Przynależność do zbioru|6. Przynależność do zbioru]]
+![[7. Brak przynależności do zbioru|7. Brak przynależności do zbioru]]
+![[8. Tożsamość|8. Tożsamość]]
+![[9. Brak tożsamości|9. Brak tożsamości]]
 
 Na tym etapie te pojęcia pierwotne możemy traktować jako puste pudełka z podpisami - w tej chwili możemy powiedzieć tylko tyle - mamy zaproponowane symbole języka proponowanego przez tę teorię. Jest to praktyka często stosowana dla systemów hipotetyczno-dedukcyjnych, czyli takich, które - w ogólnym skrócie - bazują na abstrakcjach. W podobny sposób tworzone są teorie takie jak teoria kategorii albo na przykład HoTT (Homotopy Type Theory). 
 

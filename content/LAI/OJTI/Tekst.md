@@ -1,1 +1,1 @@
-[[Zbiór]] [[Obrazy|obrazów]] nazywamy tekstem.
+[[3. Zbiór]] [[Obrazy|obrazów]] nazywamy tekstem.

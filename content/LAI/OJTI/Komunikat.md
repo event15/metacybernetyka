@@ -1,10 +1,10 @@
 ---
 type:
   - "[[Pojęcie niepierwotne]]"
-  - "[[Definicje]]"
+  - "[[21. Definicja]]"
 theory: "[[Ogólna jakościowa teoria informacji|OJTI]]"
 ---
-- Komunikaty są to [[LAI/ATP/Pojęcia pierwotne/Obiekt elementarny|elementy]] [[Zbiór|zbioru]], między którymi występują [[Informacja|informacje]].
+- Komunikaty są to [[1. Obiekt elementarny|elementy]] [[3. Zbiór|zbioru]], między którymi występują [[Informacja|informacje]].
 - Przykładowymi komunikatami są: 
 	* [[Obrazy|Obrazy]]
 	* [[Oryginał|Oryginały]]

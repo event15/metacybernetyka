@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Definicje]]"
+  - "[[21. Definicja]]"
   - "[[Pojęcie niepierwotne]]"
 theory: "[[Ogólna jakościowa teoria informacji|OJTI]]"
 relates:
@@ -8,7 +8,7 @@ relates:
   - "[[Substancja systemu]]"
 ---
 
-Jeśli mamy różne [[System|systemy]], na przykład $X$ oraz $Y$, w których mamy [[Relacja|relacje]] ([[Informacja|informacje]]) wewnątrz tych [[Zbiór|zbiorów]] pomiędzy [[Komunikat|komunikatami]], to w przypadku aktualnego rozważania do znalezienia poszukiwanych przez nas [[Informacja|informacji]] możemy wykorzystać [[Zbiór|zbiór]] $X$, wówczas te [[Komunikat|komunikaty]] nazywamy **oryginałami**.
+Jeśli mamy różne [[System|systemy]], na przykład $X$ oraz $Y$, w których mamy [[2. Relacja|relacje]] ([[Informacja|informacje]]) wewnątrz tych [[3. Zbiór|zbiorów]] pomiędzy [[Komunikat|komunikatami]], to w przypadku aktualnego rozważania do znalezienia poszukiwanych przez nas [[Informacja|informacji]] możemy wykorzystać [[3. Zbiór|zbiór]] $X$, wówczas te [[Komunikat|komunikaty]] nazywamy **oryginałami**.
 
 ```tikz
 \usepackage{amsmath}
