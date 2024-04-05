@@ -67,7 +67,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ 
         markdownLinkResolution: "shortest", 
-        prettyLinks: false
+        prettyLinks: true
       }),
       Plugin.Description(),
       Plugin.TikZSupport(),
