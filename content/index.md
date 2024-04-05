@@ -1,4 +1,4 @@
 ---
 title: Witaj
 ---
-Witaj na mojej stronie o metacybernetyce. Zacznij tu [[Logika aksjomatyczno-informacyjna]].
+Witaj na mojej stronie o metacybernetyce. Zacznij tu [[Notatki/Logika aksjomatyczno-informacyjna]].
