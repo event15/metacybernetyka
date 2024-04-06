@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "metacybernetyka.online",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Źródła"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
