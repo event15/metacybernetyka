@@ -2,11 +2,13 @@ Aby zdefiniować pojęcie "kompozycji", zacznijmy od podstawowych pojęć:
 1. obiekt elementarny, 
 2. relacja
 3. zbiór. 
+
 Chcemy stworzyć definicję kompozycji  $r_{ac}$ dwóch relacji  $r_{ab}$ i  $r_{bc}$, które są elementami zbioru $R$.
 ### Komentarz
 W kontekście LAI, kompozycja powinna być rozumiana jako operacja łącząca dwie relacje w nową relację, nie jako dodanie czy złożenie funkcji, lecz jako pewna pierwotna relacja wewnątrz teorii. Na etapie LAI nie posługujemy się zatem jeszcze pojęciami matematycznymi. Biorąc pod uwagę aksjomaty LAI i to, że nie dzielimy obiektów elementarnych na mniejsze części, możemy uważać, że:
 1. jeśli relacja $r_{ab}$ łączy obiekt $o_a$ z obiektem $o_b$,
 2. relacja $r_{bc}$ łączy obiekt $o_b$ z obiektem $o_c$,
+
 To możemy definiować kompozycję $r_{ab}$ i $r_{bc}$ jako relację $r_{ac}$, która będzie łączyć obiekt $o_a$ bezpośrednio z obiektem $o_c$.
 ### Definicja Kompozycji w ATP
 Niech $R$ będzie zbiorem relacji. 
