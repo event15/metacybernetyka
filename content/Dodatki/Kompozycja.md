@@ -6,14 +6,14 @@ Aby zdefiniować pojęcie "kompozycji", zacznijmy od podstawowych pojęć:
 Chcemy stworzyć definicję kompozycji  $r_{ac}$ dwóch relacji  $r_{ab}$ i  $r_{bc}$, które są elementami zbioru $R$.
 ### Komentarz
 W kontekście LAI, kompozycja powinna być rozumiana jako operacja łącząca dwie relacje w nową relację, nie jako dodanie czy złożenie funkcji, lecz jako pewna pierwotna relacja wewnątrz teorii. Na etapie LAI nie posługujemy się zatem jeszcze pojęciami matematycznymi. Biorąc pod uwagę aksjomaty LAI i to, że nie dzielimy obiektów elementarnych na mniejsze części, możemy uważać, że:
-1. jeśli relacja $r_{ab}$ porządkuje obiekt $o_a$ z obiektem $o_b$,
-2. relacja $r_{bc}$ porządkuje obiekt $o_b$ z obiektem $o_c$,
+1. jeśli relacja $r_{ab}$ systematyzuje obiekt $o_a$ z obiektem $o_b$,
+2. relacja $r_{bc}$ systematyzuje obiekt $o_b$ z obiektem $o_c$,
 
-To możemy definiować kompozycję $r_{ab}$ i $r_{bc}$ jako stosunek $r_{ac}$, która będzie porządkować obiekt $o_a$ bezpośrednio z obiektem $o_c$.
+To możemy definiować kompozycję $r_{ab}$ i $r_{bc}$ jako stosunek $r_{ac}$, która będzie systematyzować obiekt $o_a$ bezpośrednio z obiektem $o_c$.
 ### Definicja Kompozycji w ATP
 Niech $R$ będzie zbiorem relacji. 
 Definiujemy kompozycję $r_{ac}$ relacji $r_{ab}$ i $r_{bc}$, które są elementami $R$, jako operację tworzącą nowy stosunek $r_{ac}$ w następujący sposób:
-1. Jeżeli $r_{ab} \in R$ porządkuje $o_a$ z $o_b$ i $r_{bc} \in R$ porządkuje $o_b$ z $o_c$, to kompozycja jest stosunkiem $r_{ac}$ porządkującym $o_a$ z $o_c$ takim, że $r_{ac} \in R$.
+1. Jeżeli $r_{ab} \in R$ systematyzuje $o_a$ z $o_b$ i $r_{bc} \in R$ systematyzuje $o_b$ z $o_c$, to kompozycja jest stosunkiem $r_{ac}$ systematyzującym $o_a$ z $o_c$ takim, że $r_{ac} \in R$.
 2. Stosunek $r_{ac}$ jest określany jednoznacznie przez relacje $r_{ab}$ i $r_{bc}$ i nie zależy od żadnych innych elementów lub relacji z $R$.
 
 Oznacza to, że dla dowolnych relacji $r_{ab}, r_{bc}$, istnieje unikalny stosunek $r_{ac}$, który jest wynikiem tej kompozycji. 
