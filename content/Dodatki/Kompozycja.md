@@ -19,7 +19,7 @@ Oznacza to, że dla dowolnych $r_{ab}, r_{bc}$, istnieje unikalna relacja $r_{ac
 Dla oznaczenia relacji kompozycji w ramach Logiki aksjomatyczno-informacyjnej wprowadzam nowy symbol tej relacji niepierwotnej: $\circ$. Jest to propozycja rozszerzenia języka o nowy symbol, który jest tylko konwencją.  
 ### Warunki dla Kompozycji
 1. Jeśli $r_{ab}, r_{bc} \in R$, to również $r_{ac} \in R$.
-2. Jeżeli $r_{ab}, r_{bc}, r_{cd} \in R$, to kompozycja $(r_{ab} \circ r_{bc}) \circ r_{cd}$ jest równa kompozycji $r_{ab} \circ (r_{bc} \circ r_{cd})$, co oznaczamy jako $r_{ad} \in R$.
+2. Jeżeli $r_{ab}, r_{bc}, r_{ac} \in R$, to kompozycja $(r_{ab} \circ r_{bc}) \circ r_{ac}$ jest równa kompozycji $r_{ab} \circ (r_{bc} \circ r_{ac})$, co oznaczamy jako $r_{ac} \in R$.
 3. Dla każdego $o_a \in O$, istnieje relacja $r_{aa} \in R$, taka że dla każdego $r_{ab} \in R$, kompozycja $r_{aa} \circ r_{ab}$ jest równa $r_{ab}$.
 
 To formalne podejście pozwala na użycie kompozycji jako operacji w LAI bez konieczności dodawania nowych aksjomatów - zamiast tego, definiujemy nową operację w oparciu o już istniejące pojęcia pierwotne.
