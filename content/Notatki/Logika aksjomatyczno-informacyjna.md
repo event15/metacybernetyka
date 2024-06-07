@@ -14,7 +14,7 @@ Bez wyjaśnienia mogą powstać już w tym miejscu pewne pytania. Relacje najlep
 > > Punktem jest to, co nie ma części[^1].
 
 > [!todo]+ Przemyśl
-> Warto zauważyć, że relacja w pewien sposób implikuje istnienie przynajmniej jednego obiektu. A to implikuje istnienie przynajmniej jednego [[System|systemu]]. 
+> Warto zauważyć, że relacja w pewien sposób implikuje istnienie przynajmniej jednego obiektu. A to implikuje istnienie przynajmniej jednego [[29. System|systemu]]. 
 
 Relacje w tym systemie pojęć są w pewien sposób uprzywilejowane - to znaczy, że jest ich kilka, a każda z nich jest traktowana jako osobne pojęcie pierwotne. Każda z tych relacji ma przyporządkowaną nazwę oraz symbol:
 

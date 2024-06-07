@@ -1,8 +1,8 @@
 > [!warning] Definicja (prawdopodobnie błędna)
 > Informowanie jest to przetwarzanie [[Informacja|informacji]] zawartych między ~~elementami zbioru oryginałów~~ [[oryginał|oryginałami]] w [[Źródło|źródle]] w [[Informacja|informacje]] zawarte między ~~elementami zbioru obrazów~~ [[Obrazy|obrazami]] w [[Tekst|tekście]]. 
 
-> [!tip] Możliwa definicja do poprawy
-> Informowanie jest to określanie (znajdywanie) stosunków między ~~oryginałami~~ [[Źródło|źródłem]] a [[Tekst|tekstem]].
+> [!tip] Możliwa definicja poprawiona
+> **Informowanie** jest to przetwarzanie komunikatów w celu przeniesienia informacji zawartej między komunikatami ze zbioru oryginałów do informacji zawartej między komunikatami w zbiorze obrazów.
 
 Zauważam tu problem definicyjny informowania podobny do pojęcia przetwarzania komunikatów. 
 Aby to wykazać weźmy na tapet definicję oryginalną:
